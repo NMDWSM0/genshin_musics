@@ -1,6 +1,6 @@
 ---@diagnostic disable: lowercase-global
-name = "Genshin impact Music pack"
-description = "Music mod pack"
+name = "Genshin Impact Music Pack"
+description = "Replace game music with that in Genshin Impact\nAlso change the mechanism of playing danger music"
 author = "♪ Mio and 1526606449"
 version = "1.2.0"
 forumthread = ""
