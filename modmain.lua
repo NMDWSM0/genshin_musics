@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 GLOBAL.continuous_mode = (GetModConfigData("music_mode")~="busy")
 
 Assets = {

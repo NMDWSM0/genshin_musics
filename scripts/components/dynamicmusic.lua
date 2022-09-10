@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 --------------------------------------------------------------------------
 --[[ DynamicMusic class definition ]]
 --------------------------------------------------------------------------
@@ -410,7 +411,7 @@ local function CheckAction(player)
         end
     end
     if player:HasTag("working") then
-        StartBusy(player)
+        StartBusy()
     end
 end
 

@@ -1,3 +1,4 @@
+---@diagnostic disable: lowercase-global
 name = "Genshin impact Music pack"
 description = "Music mod pack"
 author = "♪ Mio and 1526606449"
